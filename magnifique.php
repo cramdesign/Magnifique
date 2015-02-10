@@ -2,13 +2,15 @@
 
 /*
 
-Plugin Name: Magnifique
-Version: 1.0.0
+	Plugin Name: Magnifique
+	Version: 1.0.0
+	
+	Author: Matt Cram
+	Author URI: http://mattcram.com/
 
-Author: Matt Cram
-Author URI: http://mattcram.com/
+	GitHub Theme URI: https://github.com/cramdesign/Magnifique
 
-Description: A simple lightbox based on https://github.com/dimsemenov/Magnific-Popup. The features are few but it works with the builtin WordPress gallery. That's enough for now. 
+	Description: A simple lightbox based on https://github.com/dimsemenov/Magnific-Popup. The features are few but it works with the builtin WordPress gallery. That's enough for now. 
 
 */
 	
