@@ -17,7 +17,7 @@
 	
 /* Register javascript for galleries
 -------------------------------------------------------------- */
-if (!function_exists('magnifique_scripts')) : function magnifique_scripts() {
+if ( !function_exists( 'magnifique_scripts' ) ) : function magnifique_scripts() {
 
 	global $post;
 	
@@ -36,4 +36,4 @@ if (!function_exists('magnifique_scripts')) : function magnifique_scripts() {
 
 } endif;
 
-add_action('wp_enqueue_scripts', 'magnifique_scripts');
+add_action( 'wp_enqueue_scripts', 'magnifique_scripts' );
